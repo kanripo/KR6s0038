@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:01.192682
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 祈願文
 #+PROPERTY: CBETA_ID T85n2846
 #+PROPERTY: ID KR6s0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2846
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0038_T_000-1298b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0038_T_001-1298b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2846¶
-
- 祈願文¶
+No. 2846¶
+祈願文¶
 ¶
 
 處結壇五日每壇供僧。一七人散食燃燈。逐¶
